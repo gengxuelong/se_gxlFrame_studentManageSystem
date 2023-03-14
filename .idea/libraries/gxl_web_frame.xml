@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gxl_web_frame">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/gxl_web_frame.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
